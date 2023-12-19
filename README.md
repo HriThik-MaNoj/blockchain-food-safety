@@ -18,6 +18,10 @@ The primary objective of this project is to architect and implement a robust foo
 
 5. **Empowering Consumer Confidence:** Provide consumers with comprehensive information about the food they purchase, fostering trust and confidence.
 
+###Current Stage:
+
+The project has completed the implementation of the blockchain infrastructure for the food safety system. However, the overall development is still ongoing and not yet completed. Future stages will involve further development, integration with existing systems, frontend design, and user interface enhancements
+
 ### Approach:
 
 - **Blockchain Implementation:** Design and deploy a decentralized blockchain network to securely manage food supply chain data, leveraging smart contracts and consensus mechanisms.
