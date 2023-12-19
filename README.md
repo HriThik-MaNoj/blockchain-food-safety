@@ -37,7 +37,10 @@ This project endeavors to merge blockchain's capabilities with user-centric desi
 ### Running the Application
 
 1. Clone the repository:
-    
+     ```bash
+    git clone https://github.com/HriThik-MaNoj/blockchain-food-safety.git
+    cd blockchain-food-safety
+    ```
 
 2. Run the Flask application:
     ```bash
